@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="16"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="334588419209346"
+    token="2011202731856403993"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="2114" />
+    <task
+        name="instant-run-dex"
+        duration="114" />
+    <task
+        name="instant-run-transform"
+        duration="195" />
+    <task
+        name="verifier"
+        duration="54" />
+
+    <artifact
+        location="D:\root\myproject\GITHUB\android-gpuimage-master\ImageTest\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="334551620493960"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\root\myproject\GITHUB\android-gpuimage-master\ImageTest\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="334588419209346"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\root\myproject\GITHUB\android-gpuimage-master\ImageTest\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

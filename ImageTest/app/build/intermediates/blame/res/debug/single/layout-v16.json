@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\root\\myproject\\GITHUB\\android-gpuimage-master\\ImageTest\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "D:\\root\\myproject\\GITHUB\\android-gpuimage-master\\ImageTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\root\\myproject\\git\\hub\\ImageTest\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "D:\\root\\myproject\\git\\hub\\ImageTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    }
+]

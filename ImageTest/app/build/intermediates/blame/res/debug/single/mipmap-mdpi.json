@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\root\\myproject\\GITHUB\\android-gpuimage-master\\ImageTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\root\\myproject\\GITHUB\\android-gpuimage-master\\ImageTest\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\root\\myproject\\git\\hub\\ImageTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\root\\myproject\\git\\hub\\ImageTest\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
